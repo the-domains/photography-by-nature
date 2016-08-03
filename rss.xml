@@ -4,7 +4,7 @@
         <description><![CDATA[Photography by Nature]]></description>
         <link>https://thegrid.ai/photography-by-nature/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 19:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 19:59:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photography-by-nature/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Deep in Thought]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a85b4dc-5816-4813-911b-9ec8745e25e7.jpg</link>
             <guid isPermaLink="false">9425d733-0625-492e-ae36-0ee9332657aa</guid>
             <pubDate>Wed, 03 Aug 2016 19:41:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What else is up there with our sun???]]></title>
+            <description><![CDATA[<article><h1>What else is up there with our sun???</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f58c5f2ebdd6d31b4168d736335ba7f0f7078dc7.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/09b9ec74-37f5-4599-a057-ffc725386526.jpg</link>
+            <guid isPermaLink="false">773e977b-7b7c-494f-91a4-b490cfdbbf44</guid>
+            <pubDate>Wed, 03 Aug 2016 19:59:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Let our light shine through the cloudiness of our life to reveal our true brilliance]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a8351e-1bab-4c72-a8e2-3512ebd6c4e2.jpg</link>
             <guid isPermaLink="false">97638610-f192-496d-a943-dcd888cc7791</guid>
             <pubDate>Wed, 03 Aug 2016 19:17:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fine tunning]]></title>
-            <description><![CDATA[<article><h1>Fine tunning</h1><p>God fine tunes us by the experiences of our life just like He fine tunes every moment of the day.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a01ae3aa-d6f0-487a-88fb-4d59a0654ea7.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a01ae3aa-d6f0-487a-88fb-4d59a0654ea7.jpg</link>
-            <guid isPermaLink="false">46702f2b-9a0e-4587-aae0-18d6ccade3bf</guid>
-            <pubDate>Wed, 03 Aug 2016 19:14:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
