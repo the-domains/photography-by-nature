@@ -6,12 +6,12 @@ isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cfcba3-b112-4c5f-ba75-177a0a97d3e6.jpg
 inLanguage: null
 keywords: []
-description: August 2nd 2016 Vega lake sky mid day.
-datePublished: '2016-08-03T16:09:44.895Z'
-dateModified: '2016-08-03T16:09:32.129Z'
+description: 'How awesome is the creativeness of God? '
+datePublished: '2016-08-03T19:09:31.858Z'
+dateModified: '2016-08-03T19:09:17.963Z'
 at__type: Article
 at__context: 'http://schema.org'
-title: ''
+title: The awesomeness
 author:
   - name: ''
     url: ''
@@ -19,7 +19,7 @@ via: {}
 sourcePath: _posts/2016-08-03-august-2nd-2016-vega-lake-sky-mid-day.md
 authors: []
 publisher:
-  name: The-grid-user-content
+  name: Jeff Niles
   domain: the-grid-user-content.s3-us-west-2.amazonaws.com
   url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
   favicon: null
@@ -27,4 +27,5 @@ starred: false
 _type: MediaObject
 
 ---
+How awesome is the creativeness of God?
 ![August 2nd 2016 Vega lake sky mid day.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cfcba3-b112-4c5f-ba75-177a0a97d3e6.jpg)
