@@ -6,9 +6,9 @@ isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cfcba3-b112-4c5f-ba75-177a0a97d3e6.jpg
 inLanguage: null
 keywords: []
-description: 'How awesome is the creativeness of God? '
-datePublished: '2016-08-03T19:09:31.858Z'
-dateModified: '2016-08-03T19:09:17.963Z'
+description: How awesome is the creativeness of God?
+datePublished: '2016-08-03T19:09:45.600Z'
+dateModified: '2016-08-03T19:09:36.975Z'
 at__type: Article
 at__context: 'http://schema.org'
 title: The awesomeness
