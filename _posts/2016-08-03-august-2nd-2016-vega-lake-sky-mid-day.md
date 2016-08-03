@@ -6,12 +6,12 @@ isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cfcba3-b112-4c5f-ba75-177a0a97d3e6.jpg
 inLanguage: null
 keywords: []
-description: How awesome is the creativeness of God?
-datePublished: '2016-08-03T19:09:45.600Z'
-dateModified: '2016-08-03T19:09:36.975Z'
+description: August 2nd 2016 Vega lake sky mid day.
+datePublished: '2016-08-03T20:01:12.439Z'
+dateModified: '2016-08-03T20:01:07.114Z'
 at__type: Article
 at__context: 'http://schema.org'
-title: The awesomeness
+title: How awesome is the creativeness of God?
 author:
   - name: ''
     url: ''
@@ -27,5 +27,5 @@ starred: false
 _type: MediaObject
 
 ---
-How awesome is the creativeness of God?
+# How awesome is the creativeness of God?
 ![August 2nd 2016 Vega lake sky mid day.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cfcba3-b112-4c5f-ba75-177a0a97d3e6.jpg)
