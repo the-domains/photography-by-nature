@@ -10,8 +10,8 @@ description: >-
   So little time for enjoying the real beauty in life that surrounds us
   everyday. Here I hope you can find that beauty captured in full living
   color... 
-datePublished: '2016-08-03T19:41:09.467Z'
-dateModified: '2016-08-03T19:40:47.974Z'
+datePublished: '2016-08-03T19:41:30.259Z'
+dateModified: '2016-08-03T19:41:13.821Z'
 at__type: Article
 at__context: 'http://schema.org'
 title: Deep in Thought
