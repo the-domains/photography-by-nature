@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: August 2nd 2016 Vega lake sky mid day.
-datePublished: '2016-08-03T16:03:02.367Z'
-dateModified: '2016-08-03T15:58:46.448Z'
+datePublished: '2016-08-03T16:09:44.895Z'
+dateModified: '2016-08-03T16:09:32.129Z'
 at__type: Article
 at__context: 'http://schema.org'
 title: ''
