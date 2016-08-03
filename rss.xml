@@ -4,7 +4,7 @@
         <description><![CDATA[Photography by Nature]]></description>
         <link>https://thegrid.ai/photography-by-nature/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 16:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 16:49:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photography-by-nature/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Deep in thought]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a85b4dc-5816-4813-911b-9ec8745e25e7.jpg</link>
             <guid isPermaLink="false">9425d733-0625-492e-ae36-0ee9332657aa</guid>
             <pubDate>Wed, 03 Aug 2016 15:52:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Captivating Beauty]]></title>
+            <description><![CDATA[<article><h1>Captivating Beauty</h1><p>Her light captivates our day infusing us with her warm embrace. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4497c39-1d23-4967-a1fb-a383a94f072f.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4497c39-1d23-4967-a1fb-a383a94f072f.jpg</link>
+            <guid isPermaLink="false">a0947b72-7338-489a-b54d-525d181de36f</guid>
+            <pubDate>Wed, 03 Aug 2016 16:49:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/11c1a169-c6a8-4f7d-b095-2e73ac9d47a6.jpg</link>
             <guid isPermaLink="false">7253f3a0-5fcd-464f-989a-f893fd8aeebb</guid>
             <pubDate>Wed, 03 Aug 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a8351e-1bab-4c72-a8e2-3512ebd6c4e2.jpg" alt="" title="">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2a8351e-1bab-4c72-a8e2-3512ebd6c4e2.jpg</link>
-            <guid isPermaLink="false">97638610-f192-496d-a943-dcd888cc7791</guid>
-            <pubDate>Wed, 03 Aug 2016 15:59:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
