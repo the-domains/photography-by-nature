@@ -1,6 +1,19 @@
 name: Photography by Nature
-layout_spectrum: 0.26787181786535885
-typography_spectrum: 0.26709220107845555
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.13046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -9,6 +22,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
   brandStrength: 0.7608533428616859
-  lightness: 0.1929936364340934
+  lightness: 0.5625
   saturation: 0.5568461101446953
-  rhythmicContrast: 0.6684752147626508
+  rhythmicContrast: 1
+purpose: []
