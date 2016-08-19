@@ -4,7 +4,7 @@
         <description><![CDATA[Photography by Nature]]></description>
         <link>https://thegrid.ai/photography-by-nature/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 22:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 15:12:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photography-by-nature/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[So little time for enjoying the real beauty in life that surrounds us everyday. Here I hope you can find that beauty captured in full living color... ]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a85b4dc-5816-4813-911b-9ec8745e25e7.jpg</link>
             <guid isPermaLink="false">9425d733-0625-492e-ae36-0ee9332657aa</guid>
             <pubDate>Wed, 03 Aug 2016 20:11:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The sky used to be blue]]></title>
+            <description><![CDATA[<article><h1>The sky used to be blue</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5c553bb-75ae-44d2-9d6e-860613e8f033.jpg"></article>]]></description>
+            <link>https://thegrid.ai/photography-by-nature/the-sky-used-to-be-blue/index.html</link>
+            <guid isPermaLink="false">cc511901-302b-4283-a4e5-f40312fa9a03</guid>
+            <pubDate>Fri, 19 Aug 2016 15:12:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How blinding is her light that we can only view her in this way? Shouldn't our own light be just as blinding.]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a90d945-4343-4a2d-98ce-f27e5983b2e9.jpg</link>
             <guid isPermaLink="false">2b1129d7-20b2-425b-9dbc-446259298039</guid>
             <pubDate>Wed, 03 Aug 2016 19:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Every moment in life is worth exactly the price you give it. ]]></title>
-            <description><![CDATA[<article><h1>Every moment in life is worth exactly the price you give it. </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f749d7-4bb5-4c00-8254-4a025d7fa4a1.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9f749d7-4bb5-4c00-8254-4a025d7fa4a1.jpg</link>
-            <guid isPermaLink="false">a293170c-30db-45ce-bb35-254dd4c6d31b</guid>
-            <pubDate>Wed, 03 Aug 2016 19:42:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
