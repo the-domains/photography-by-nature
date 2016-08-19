@@ -1,19 +1,4 @@
-name: Photography by Nature
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.13046
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0.5568461101446953
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Photography by Nature
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: '"Two soul''s journey through life"'
 purpose: []
