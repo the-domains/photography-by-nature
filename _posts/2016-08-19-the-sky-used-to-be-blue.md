@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-19T15:10:50.129Z'
-dateModified: '2016-08-19T15:10:27.624Z'
+datePublished: '2016-08-19T15:12:14.656Z'
+dateModified: '2016-08-19T15:10:56.791Z'
 title: The sky used to be blue
 author: []
 via: {}
+sourcePath: _posts/2016-08-19-the-sky-used-to-be-blue.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-19-the-sky-used-to-be-blue.md
 url: the-sky-used-to-be-blue/index.html
 _type: Article
 
