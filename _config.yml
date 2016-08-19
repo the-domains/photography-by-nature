@@ -12,13 +12,16 @@ color:
   rhythmicContrast: 1
 opengraph:
   image: null
-  type: null
-  appId: null
+  type: page
+  appId: 'https://www.facebook.com/jeffsphotos/'
 layout_spectrum: 1
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jeff Niles
+  email: jnmusicman9@gmail.com
 name: Photography by Nature
 cta:
   domain: null
